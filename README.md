@@ -1,5 +1,5 @@
 # 🏥 Hospital Analytics Dashboard
-Live Dashboard [link](https://app.powerbi.com/view?r=eyJrIjoiNTM0NGNiNTMtOTFjZi00OWRkLTgxZDktMGFhMDc3NDczMmU2IiwidCI6ImUwYzk0NGU4LWM5N2YtNGUwMS04MWUwLWRkMzZjZTk5YTgwYyJ9)
+Live Dashboard [link](https://app.powerbi.com/view?r=eyJrIjoiZGU5OTQ5YzgtOTUxOS00ZmU5LWEyM2ItYmExMTZmOTc4Y2ZjIiwidCI6IjY2MjQ1OWI0LTQ3YWUtNDc0Yi05ODkyLTczZDhhMDRjODRmMSJ9)
 ### 📌 Overview
 A comprehensive Power BI dashboard for hospital management, providing real-time insights into patient records, doctor performance, financial metrics, and hospital operations. Built with a focus on a clean data model, powerful DAX measures, and an optimized SQL backend for performance.
 
